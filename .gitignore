@@ -1,0 +1,21 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# VSCode
+.vscode/
+
+# Sistema Operacional
+.DS_Store        # macOS
+Thumbs.db        # Windows
